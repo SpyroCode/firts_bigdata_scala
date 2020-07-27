@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="bic" />
+        <module name="firts_bigdata_scala" />
       </profile>
     </annotationProcessing>
   </component>
